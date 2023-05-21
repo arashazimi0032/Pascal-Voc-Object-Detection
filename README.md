@@ -1,4 +1,3 @@
-@@ -0,0 +1,91 @@
 # Multi-Object object detection
 
 This repository is an exercise for the multi-object object detection project on the PASCAL-VOC 2012 Dataset.
