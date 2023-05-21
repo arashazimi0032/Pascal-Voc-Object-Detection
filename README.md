@@ -17,7 +17,7 @@ This model includes 10,276,493 parameters, 2,640,933 of which are trainable. The
 
 The structure of the model is shown in the image below:
 
-<img src="./images/innovative%20model%20graph.png">
+<img src="./images/innovative model graph.png">
 
 ### 2- A model similar to SSD in which there are only convolutional layers of SSD.
 
@@ -26,7 +26,7 @@ This model includes 25,478,936 parameters, 10,764,248 of which are trainable. Th
 
 The structure of the model is shown in the image below:
 
-<img src="./images/ssd-like%20model%20graph.png">
+<img src="./images/ssd-like model graph.png">
 
 ***Both of these models uses anchor boxes for object detection problem***
 
@@ -37,12 +37,12 @@ loss curves for both models are shown in figure below:
 
 ### loss curves of innovative model
 
-<img src="./images/class_loss%20innovative%20model.png">
-<img src="./images/offset_loss%20innovative%20model.png">
+<img src="./images/class_loss innovative model.png">
+<img src="./images/offset_loss innovative model.png">
 
 ### loss curve of SSD-Like model
 
-<img src="./images/loss%20SSD-like%20model.png">
+<img src="./images/loss SSD-like model.png">
 
 ## Usage
 
@@ -71,15 +71,15 @@ using the SSD-Like network, run file ***prediction_ssd_like_model.py***.
 
 ### Innovative Model Examples
 
-<img src="./images/prediction%20innovative%20model/fig%201.png">
-<img src="./images/prediction%20innovative%20model/fig%202.png">
-<img src="./images/prediction%20innovative%20model/fig%203.png">
+<img src="./images/prediction innovative model/fig 1.png">
+<img src="./images/prediction innovative model/fig 2.png">
+<img src="./images/prediction innovative model/fig 3.png">
 
 ### SSD-Like Model Examples
 
-<img src="./images/prediction%20ssd_like%20model/fig%201.png">
-<img src="./images/prediction%20ssd_like%20model/fig%202.png">
-<img src="./images/prediction%20ssd_like%20model/fig%203.png">
+<img src="./images/prediction ssd_like model/fig 1.png">
+<img src="./images/prediction ssd_like model/fig 2.png">
+<img src="./images/prediction ssd_like model/fig 3.png">
 
 ## TODO
 
